@@ -1,0 +1,11 @@
+db:
+  host: 127.0.0.1
+  port: 28015
+  db: blah
+s3:
+  key: <S3 key>
+  secret: <S3 secret>
+  bucket: <S3 bucket>
+auth:
+  username: test
+  password: test
